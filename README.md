@@ -1,4 +1,5 @@
 🎮 Rock Paper Scissors (Live Socket Program)
+---
 A client-server Rock Paper Scissors game built in C++ using TCP sockets. The application demonstrates network programming concepts including socket communication, concurrent client handling, custom application-layer protocols, and real-time game state management.
 
 ***
