@@ -29,6 +29,7 @@ A client-server Rock Paper Scissors game built in C++ using TCP sockets. The app
 
 **Architecture**
 ---
+```text
                            TCP Connection
 +----------------+     <--------------------->     +----------------+
 |     Client     |                                |     Server      |
@@ -38,6 +39,7 @@ A client-server Rock Paper Scissors game built in C++ using TCP sockets. The app
 | Display Score  |                                | Process Commands|
 +----------------+                                | Track Scores    |
                                                   +-----------------+
+```
 
 ***
 
